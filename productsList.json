@@ -1,0 +1,29 @@
+[
+	{
+		"id": 1,
+		"title": "Colombia",
+		"description": "Auténtico café tostado colombiano",
+		"price": 2680,
+		"thumbnail": "images/cafe_barista_colombia.png",
+		"code": "code125",
+		"stock": 50
+	},
+	{
+		"id": 2,
+		"title": "Mundial",
+		"description": "Un café que combina las mejores notas en un blend mundial",
+		"price": 3500,
+		"thumbnail": "images/cafe_barista_mundial.png",
+		"code": "code126",
+		"stock": 30
+	},
+	{
+		"id": 3,
+		"title": "Un Café Customizado",
+		"description": "Un café de test",
+		"price": 5500,
+		"thumbnail": "images/cafe_barista_mundial.png",
+		"code": "code127",
+		"stock": 35
+	}
+]
