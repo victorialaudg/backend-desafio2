@@ -1,14 +1,5 @@
 [
 	{
-		"id": 1,
-		"title": "Colombia",
-		"description": "Auténtico café tostado colombiano",
-		"price": 2680,
-		"thumbnail": "images/cafe_barista_colombia.png",
-		"code": "code125",
-		"stock": 50
-	},
-	{
 		"id": 2,
 		"title": "Mundial",
 		"description": "Un café que combina las mejores notas en un blend mundial",
@@ -25,5 +16,14 @@
 		"thumbnail": "images/cafe_barista_mundial.png",
 		"code": "code127",
 		"stock": 35
+	},
+	{
+		"id": 4,
+		"title": "Costa Rica",
+		"description": "Originario del Valle Occidental, orgánico y de aires costarricenses",
+		"price": 7000,
+		"thumbnail": "images/cafe_barista_costarica.png",
+		"code": "code128",
+		"stock": 30
 	}
 ]
